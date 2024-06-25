@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-- 📫 How to reach me  andreaarcu@gmail.com
   
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: andreaarcu@gmail.com</h3>
 <p align="left">
 </p>
 
